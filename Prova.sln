@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi Prova", "WebApi Prova\WebApi Prova.csproj", "{63461CD1-1475-4AF3-A28C-5C66E5CB0B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Prova", "Web Prova\Web Prova.csproj", "{FDB2685D-AD2E-4BBA-B438-8F4BECD9042B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63461CD1-1475-4AF3-A28C-5C66E5CB0B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63461CD1-1475-4AF3-A28C-5C66E5CB0B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63461CD1-1475-4AF3-A28C-5C66E5CB0B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63461CD1-1475-4AF3-A28C-5C66E5CB0B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB2685D-AD2E-4BBA-B438-8F4BECD9042B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB2685D-AD2E-4BBA-B438-8F4BECD9042B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB2685D-AD2E-4BBA-B438-8F4BECD9042B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB2685D-AD2E-4BBA-B438-8F4BECD9042B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
